@@ -1,0 +1,6 @@
+# LeetCode Solution 力扣题解
+
+
+The Summary of  LeetCode Solutions， Classified by module.
+
+总结LeetCode刷题过程中的结题思路，并按模块进行分类。
