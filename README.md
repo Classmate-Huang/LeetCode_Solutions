@@ -3,7 +3,7 @@
 
 The Summary of  LeetCode Solutions， Classified by module.
 
-总结LeetCode刷题过程中的结题思路，并按模块进行分类。
+总结LeetCode刷题过程中的解题思路，并按模块进行分类。
 
 
 
