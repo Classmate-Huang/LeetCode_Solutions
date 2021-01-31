@@ -8,7 +8,7 @@
 
 现有一个链表 -- head = [4,5,1,9]，它可以表示为:
 
-![image-20201004100345267](F:\LeetCode_Solutions\LinkedList_链表\LeetCode237：删除链表中的节点.assets\image-20201004100345267.png)
+<img src="LeetCode237：删除链表中的节点.assets\image-20201004100345267.png" />
 
 示例 1：
 

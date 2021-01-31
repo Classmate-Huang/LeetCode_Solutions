@@ -101,7 +101,7 @@ public:
 
 解法二比较有意思，使用自动机来进行，如下图所示，箭头表示状态的转移。
 
-<img src="LeetCode8：字符串转整数(atoi).assets/image-20200925094104114.png" alt="image-20200925094104114" style="zoom:67%;" />
+<img src="LeetCode8：字符串转整数(atoi).assets/image-20200925094104114.png" style="zoom:67%;" />
 
 当然上面的箭头也可以变为一张表：
 

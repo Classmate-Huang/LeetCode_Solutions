@@ -18,7 +18,7 @@
 
 示例 1：
 
-![image-20201023101904757](F:\LeetCode_Solutions\LinkedList_链表\LeetCode141：环形链表.assets\image-20201023101904757.png)
+<img src="LeetCode141：环形链表.assets\image-20201023101904757.png" />
 
 > 输入：head = [3,2,0,-4], pos = 1
 > 输出：true
@@ -26,7 +26,7 @@
 
 示例 2：
 
-![image-20201023101922503](F:\LeetCode_Solutions\LinkedList_链表\LeetCode141：环形链表.assets\image-20201023101922503.png)
+<img src="LeetCode141：环形链表.assets\image-20201023101922503.png" />
 
 > 输入：head = [1,2], pos = 0
 > 输出：true
@@ -34,7 +34,7 @@
 
 示例 3：
 
-![image-20201023101941994](F:\LeetCode_Solutions\LinkedList_链表\LeetCode141：环形链表.assets\image-20201023101941994.png)
+<img src="LeetCode141：环形链表.assets\image-20201023101941994.png" />
 
 > 输入：head = [1], pos = -1
 > 输出：false
